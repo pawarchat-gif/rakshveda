@@ -1,2 +1,2 @@
 # rakshveda
-zero security architecture:ANTOID X is an AI-powered autonomous cybersecurity ecosystem designed for predictive threat intelligence and adaptive cyber defense. 
+ANTOID X is an advanced AI-driven cybersecurity ecosystem built for predictive cyber defense and autonomous threat intelligence. The platform detects hidden anomalies, analyzes malware behavioral DNA, predicts malware evolution, and coordinates intelligent AI defense agents (“Antoids”) to respond against modern cyber threats in real time. By integrating hidden payload detection, steganography analysis, vulnerability intelligence, mutation learning, and adaptive threat correlation into a unified platform, ANTOID X transforms cybersecurity from reactive protection into proactive and predictive defense.
